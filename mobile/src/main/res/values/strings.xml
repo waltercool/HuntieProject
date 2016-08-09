@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">HuntieProject</string>
+    <string name="nav_drawer_open">Open</string>
+    <string name="nav_drawer_close">Close</string>
+
+    <string name="side_nav_home">Home</string>
+    <string name="side_nav_my_investments">My Investments</string>
+    <string name="side_nav_dow">Dow Stocks</string>
+    <string name="side_nav_nasda">Nasda Stocks</string>
 </resources>
