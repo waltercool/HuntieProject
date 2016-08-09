@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="main_nav_drawer_items">
+        <item>@string/side_nav_home</item>
+        <item>@string/side_nav_my_investments</item>
+        <item>@string/side_nav_dow</item>
+        <item>@string/side_nav_nasda</item>
+    </array>
+</resources>
