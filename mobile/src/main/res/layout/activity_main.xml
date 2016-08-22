@@ -25,8 +25,7 @@
         android:id="@+id/activity_main_nav_drawer"
         android:layout_width="240dp"
         android:layout_height="match_parent"
-        android:layout_gravity="left|start"
-        android:background="#ff0000">
+        android:layout_gravity="left|start">
 
         <include layout="@layout/activity_main_nav_drawer" />
 
