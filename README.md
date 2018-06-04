@@ -1,3 +1,8 @@
+DEPRECATED
+
+Please see https://gitlab.com/waltercool/HuntieAndroid for updated code.
+*************
+
 This is a personal project for Market simulation in mobile devices.
 
 This project still in very early stages and still without a business model.
